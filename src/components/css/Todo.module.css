@@ -1,0 +1,12 @@
+.container2 {
+  margin-top: 150px;
+}
+
+.inp {
+  outline: none;
+  border-radius: 10px !important;
+}
+
+.submitBtn {
+  border-radius: 10px !important;
+}

@@ -1,0 +1,13 @@
+.checked {
+  text-decoration: line-through !important;
+}
+
+.todoList {
+  list-style: none;
+}
+
+.deleteBtn {
+  cursor: pointer;
+  font-size: 30px;
+  color: #fab005;
+}
